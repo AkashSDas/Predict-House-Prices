@@ -28,7 +28,7 @@
 
 *  [Installation](#installation)
 
-*  [Acknowledgments](#acknowledgments)
+*  [Acknowledgements](#acknowledgements)
 
 *  [Data Source](#data-source)
 
@@ -178,7 +178,7 @@ This will open a webpage in the browser from there you can click on notebook.ipy
   
   
 
-## Acknowledgments
+## Acknowledgements
 
   
 
