@@ -67,7 +67,7 @@
 
 #### Learning Curve
 
-![Learning Curve](https://github.com/AkashSDas/Predict-House-Prices/blob/master/project-results-images/leraning-curve.png)
+![Learning Curve](https://github.com/AkashSDas/Predict-House-Prices/blob/master/project-results-images/learning-curve.png)
 
 ####  Metrics Scores
 
