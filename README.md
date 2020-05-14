@@ -151,7 +151,7 @@ pipenv shell
 
   
 
-- dataset, jupyter notebook and model are in `'Predict-House-Prices'/requirements.txt/src` folder.
+- dataset, jupyter notebook and model are in `'Predict-House-Prices'/venv/src` folder.
 
   
 
