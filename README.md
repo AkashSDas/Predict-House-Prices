@@ -75,7 +75,7 @@
 
 #### Actual VS Prediction
 
-![Metrics Scores](https://github.com/AkashSDas/Predict-House-Prices/blob/master/project-results-images/actual-vs-prediction.png)
+![Actual VS Prediction](https://github.com/AkashSDas/Predict-House-Prices/blob/master/project-results-images/actual-vs-prediction.png)
 
 ## Installation
 
