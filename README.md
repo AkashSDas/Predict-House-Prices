@@ -27,6 +27,7 @@ To know about findings in the `EDA` stage go to the [notebook](./notebook.ipynb)
 
 **Visualizing our predictions against actual values**
 ![output-img](./docs/imgs/output-img.png)
+![final-output](docs/imgs/final-output.png)
 
 ## License
 
