@@ -9,6 +9,13 @@ In this project [House Prices - Advanced Regression Techniques](https://www.kagg
 - How to process `string` dtype columns for building `machine learning model`
 - Dealing with `missing` values
 
+## Table of contents
+
+- [Getting started](#getting-started)
+- [Findings](#findings)
+- [Machine learning model](#machine-learning-model)
+- [License](#license)
+
 ## Getting started
 
 The [notebook](https://www.kaggle.com/akashsdas/predict-house-prices-in-depth-eda) is available on Kaggle to work in the same environment where this notebook was created i.e. use the same version packages used, etc...
